@@ -1,0 +1,8 @@
+{
+  "name": "sha.spring-boot-seller-testapp",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
